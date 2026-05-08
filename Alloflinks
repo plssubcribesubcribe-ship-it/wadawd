@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Links</title>
+
+  <style>
+    body {
+      background: #111;
+      color: white;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #00ffcc;
+    }
+
+    h2 {
+      margin-top: 30px;
+      color: #ffcc00;
+    }
+
+    a {
+      color: #4da6ff;
+      text-decoration: none;
+      display: block;
+      margin: 6px 0;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .box {
+      background: #1b1b1b;
+      padding: 15px;
+      border-radius: 12px;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>All Links</h1>
+
+  <div class="box">
+    <h2>AI / Game / Chat</h2>
+
+    <a href="https://codepen.io/Plssubcribe-Subcribe/full/pvEMavQ" target="_blank">
+      AI
+    </a>
+
+    <a href="https://codepen.io/Plssubcribe-Subcribe/full/YPpKrqW" target="_blank">
+      Game
+    </a>
+
+    <a href="https://codepen.io/Plssubcribe-Subcribe/full/OPbLxxz" target="_blank">
+      Soundboard
+    </a>
+
+    <a href="https://codepen.io/Plssubcribe-Subcribe/full/emdqVpa" target="_blank">
+      Chat
+    </a>
+  </div>
+
+  <div class="box">
+    <h2>Main Sites</h2>
+
+    <a href="https://ixlwork.storage.googwleapis.com/index.html" target="_blank">
+      Vapor
+    </a>
+
+    <a href="https://canvas-lms.storage.googleapis.com/index.html#/search" target="_blank">
+      Doge
+    </a>
+
+    <a href="https://storage.googleapis.com/instructure/index.svg#/search" target="_blank">
+      Doge SVG
+    </a>
+
+    <a href="https://cdn.jsdelivr.net/gh/rykcbaoolNEW/dogeub/index.svg" target="_blank">
+      Doge CDN
+    </a>
+
+    <a href="https://s3.amazonaws.com/bullguardian/index.html" target="_blank">
+      Fern
+    </a>
+
+    <a href="https://cdn.jsdelivr.net/gh/Eraclio28/PeteZahStaticDone@main/new.svg" target="_blank">
+      Petzah
+    </a>
+
+    <a href="https://cdn.jsdelivr.net/gh/scientific-studying/svg@main/logo.svg#/g" target="_blank">
+      Adis
+    </a>
+  </div>
+
+  <div class="box">
+    <h2>Other</h2>
+
+    <a href="https://padlet-uploads-usc1.storage.googleapis.com/4369598499/2552cfe327c844892efe73765ecf943f/clSINGLEFILE.html" target="_blank">
+      OMG Too Good
+    </a>
+
+    <a href="https://cdn.jsdelivr.net/npm/ugs-singlefiles@1.0.6/mustard.svg" target="_blank">
+      Mustard CDN
+    </a>
+
+    <a href="https://unpkg.com/ugs-singlefiles@1.0.6/mustard.svg" target="_blank">
+      Mustard UNPKG
+    </a>
+
+    <a href="https://dulo.tv" target="_blank">
+      Movie Website
+    </a>
+  </div>
+
+  <div class="box">
+    <h2>Doge OP Links</h2>
+
+    <a href="https://cherri.altonhabitat.online/" target="_blank">
+      Cherry
+    </a>
+
+    <a href="https://myfriendadiisfartingouthisbutt.ignorelist.com/" target="_blank">
+      Froggy Arcade
+    </a>
+
+    <a href="https://adisdeadnow.ignorelist.com/" target="_blank">
+      Just Links
+    </a>
+
+    <a href="https://easycoding.recreatinganew.com/" target="_blank">
+      Studyhub
+    </a>
+
+    <a href="https://mygoatxavier.farted.net/" target="_blank">
+      Vapor
+    </a>
+
+    <a href="https://pizzaedition.win/" target="_blank">
+      Pizza
+    </a>
+
+    <a href="https://xylora.grahammurryinsuranceagency.com/" target="_blank">
+      Xylora
+    </a>
+  </div>
+
+  <div class="box">
+    <h2>HTML / CDN</h2>
+
+    <a href="https://cdn.jsdelivr.net/gh/freebuisness/freebuisness.github.io@main/singlefile.html" target="_blank">
+      Single File HTML
+    </a>
+
+    <a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editors" target="_blank">
+      W3Schools HTML Viewer
+    </a>
+
+    <a href="https://cdn.jsdelivr.net/gh/plssubcribesubcribe-ship-it/wadawd@master/index.html" target="_blank">
+      SoundBoard CDN
+    </a>
+
+    <a href="https://cdn.jsdelivr.net/gh/plssubcribesubcribe-ship-it/TheOne@main/.github/workflows/static.yml" target="_blank">
+      Any Game
+    </a>
+
+    <a href="https://coddy.tech/playground/html" target="_blank">
+      Blob HTML Playground
+    </a>
+
+    <a href="https://codepen.io/Plssubcribe-Subcribe/full/JobjBBJ" target="_blank">
+      Doge Codepen
+    </a>
+
+    <a href="https://codepen.io/Plssubcribe-Subcribe/full/gbLOQdB" target="_blank">
+      Test
+    </a>
+  </div>
+
+</body>
+</html>
